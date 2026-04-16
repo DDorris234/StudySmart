@@ -1,0 +1,1 @@
+Built a C++ console application that takes user input notes and generates a basic summary and simplified version using string manipulation and functions. This project demonstrates understanding of input/output handling, functions, and basic text processing in C++. 
